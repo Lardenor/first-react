@@ -1,0 +1,15 @@
+.jun{
+    padding: 0 10px 5px;
+    border-radius: 5px;
+    border-bottom: 2px rgba(0, 212, 255, 1) solid;
+    font-weight: bold;
+    font-size: 21px;
+}
+.tittle{
+background: linear-gradient(90deg, rgba(135, 135, 255, 1) 0%, rgba(0, 212, 255, 0.1) 50%);
+padding: 5px 10px;
+border-radius: 5px;
+}
+.par{
+    margin: 0 10px;
+}

@@ -1,0 +1,9 @@
+.par_exp{
+    margin: 10px 10px;
+    font-style: italic;
+    color: rgb(83, 76, 76);
+}
+.task{
+    font-weight: bold;
+    font-size: 18px;
+}

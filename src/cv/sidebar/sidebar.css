@@ -1,0 +1,8 @@
+.sidebar{
+    
+padding: 20px;
+    min-width: 320px;
+min-height: 100vh;
+background: linear-gradient(90deg, rgba(135, 135, 255, 1) 0%, rgba(0, 212, 255, 1) 50%, rgba(135, 135, 255, 1) 100%);
+border-radius: 5px;   
+}
